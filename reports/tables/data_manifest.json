@@ -1,0 +1,18 @@
+{
+  "archive_bytes": 520291,
+  "archive_sha256": "08c9e3e20079777881ae1468a8f443e7676f4c36d1c7aefc3a9ae088cb3e978d",
+  "columns": [
+    "Cnsmr",
+    "Manuf",
+    "HiTec",
+    "Hlth",
+    "Other"
+  ],
+  "csv_bytes": 2634244,
+  "destination": "data/raw/5_Industry_Portfolios_Daily.csv",
+  "first_date": "1926-07-01",
+  "last_date": "2026-09-30",
+  "retrieved_at_utc": "2026-11-12T10:31:28.818096+00:00",
+  "rows": 26338,
+  "source_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/5_Industry_Portfolios_Daily_CSV.zip"
+}

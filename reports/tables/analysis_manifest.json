@@ -1,0 +1,16 @@
+{
+  "alpha": 0.01,
+  "analysis_end": "2026-09-30",
+  "analysis_start": "2015-01-02",
+  "backtest_observations": 2453,
+  "monte_carlo_simulations_per_forecast": 3000,
+  "observations": 2953,
+  "weights": {
+    "Cnsmr": 0.2,
+    "HiTec": 0.2,
+    "Hlth": 0.2,
+    "Manuf": 0.2,
+    "Other": 0.2
+  },
+  "window": 500
+}

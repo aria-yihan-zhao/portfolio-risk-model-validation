@@ -1,0 +1,6 @@
+{
+  "correlation_blend": 0.35,
+  "expected_shortfall_99": 0.03923342836477704,
+  "var_99": 0.03414841422862841,
+  "volatility_multiplier": 1.5
+}
